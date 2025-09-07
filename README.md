@@ -17,9 +17,9 @@ The goal is to demonstrate how data science can be used to support targeted mark
 
 ## 🔑 Key Insights
 - Customers can be grouped into **three distinct clusters**:  
-  1. **Affluent Heavy Spenders** – High income, very high spending, highly responsive to campaigns.  
-  2. **Budget-Conscious Families** – Low income, more children, very low spending, little to no response to campaigns.  
-  3. **Established Middle Spenders** – Medium income, moderate spending, stable customer base with some campaign responsiveness.  
+  1. **Heavy Spenders** - High income, very high spending, highly responsive to campaigns.  
+  2. **Budget-Conscious Families** - Low income, more children, very low spending, little to no response to campaigns.  
+  3. **Established Middle Spenders** - Medium income, moderate spending, stable customer base with some campaign responsiveness.  
 
 - These insights can guide **marketing strategy**:  
   - Premium offers for high-value customers (Cluster 0).  
@@ -32,13 +32,6 @@ The goal is to demonstrate how data science can be used to support targeted mark
 <img width="694" height="398" alt="children_per_cluster" src="https://github.com/user-attachments/assets/f77de780-113e-4b47-8607-2035b305ed41" />
 <img width="689" height="398" alt="recency_per_cluster" src="https://github.com/user-attachments/assets/dfb044b4-035c-48bb-b72d-f91f4ec7df4b" />
 <img width="578" height="520" alt="campaign_response_rate" src="https://github.com/user-attachments/assets/558e3750-4dac-4023-92a0-9eab1c37bddc" />
-
----
-
-## 📂 Repository Structure
-- `Retail_Customer_Segmentation.ipynb` → Jupyter Notebook with full analysis and clustering.  
-- `customer_segmentation.csv` → Dataset used in the project, retrieved from Kaggle (https://www.kaggle.com/datasets/vishakhdapat/customer-segmentation-clustering/data).  
-- `README.md` → Project overview (this file).  
 
 ---
 
