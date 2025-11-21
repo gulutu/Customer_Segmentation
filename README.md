@@ -25,13 +25,13 @@ The goal is to demonstrate how data science can be used to support targeted mark
   - Premium offers for high-value customers (Cluster 0).  
   - Low-cost maintenance for low-value families (Cluster 1).  
   - Selective campaigns for stable mid-value customers (Cluster 2).  
-<img width="690" height="552" alt="clusters" src="https://github.com/user-attachments/assets/31ca3240-1c7e-402b-9223-5f0077929470" />
-<img width="689" height="398" alt="age_per_cluster" src="https://github.com/user-attachments/assets/0e4b46af-6ea6-487f-b7e5-c74d19eb9e60" />
-<img width="715" height="398" alt="income_per_cluster" src="https://github.com/user-attachments/assets/85f37e52-0530-4914-a67c-82f4a841d3ff" />
-<img width="706" height="398" alt="total_spending_per_cluster" src="https://github.com/user-attachments/assets/d7d76119-b801-496c-8d3a-4149e6b995c5" />
-<img width="694" height="398" alt="children_per_cluster" src="https://github.com/user-attachments/assets/f77de780-113e-4b47-8607-2035b305ed41" />
-<img width="689" height="398" alt="recency_per_cluster" src="https://github.com/user-attachments/assets/dfb044b4-035c-48bb-b72d-f91f4ec7df4b" />
-<img width="578" height="520" alt="campaign_response_rate" src="https://github.com/user-attachments/assets/558e3750-4dac-4023-92a0-9eab1c37bddc" />
+<img width="650" alt="clusters" src="https://github.com/user-attachments/assets/31ca3240-1c7e-402b-9223-5f0077929470" />
+<img width="650" alt="age_per_cluster" src="https://github.com/user-attachments/assets/0e4b46af-6ea6-487f-b7e5-c74d19eb9e60" />
+<img width="650" alt="income_per_cluster" src="https://github.com/user-attachments/assets/85f37e52-0530-4914-a67c-82f4a841d3ff" />
+<img width="650" alt="total_spending_per_cluster" src="https://github.com/user-attachments/assets/d7d76119-b801-496c-8d3a-4149e6b995c5" />
+<img width="650" alt="children_per_cluster" src="https://github.com/user-attachments/assets/f77de780-113e-4b47-8607-2035b305ed41" />
+<img width="650" alt="recency_per_cluster" src="https://github.com/user-attachments/assets/dfb044b4-035c-48bb-b72d-f91f4ec7df4b" />
+<img width="650" alt="campaign_response_rate" src="https://github.com/user-attachments/assets/558e3750-4dac-4023-92a0-9eab1c37bddc" />
 
 ---
 
