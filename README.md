@@ -5,7 +5,7 @@ The goal is to demonstrate how data science can be used to support targeted mark
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 - **Dataset**: Retail customer dataset with demographic, spending, and campaign response variables.  
 - **Techniques**:  
   - Exploratory Data Analysis (EDA) for understanding demographics, purchasing behavior, and customer engagement.  
@@ -15,7 +15,7 @@ The goal is to demonstrate how data science can be used to support targeted mark
 
 ---
 
-## 🔑 Key Insights
+## Key Insights
 - Customers can be grouped into **three distinct clusters**:  
   1. **Heavy Spenders** - High income, very high spending, highly responsive to campaigns.  
   2. **Budget-Conscious Families** - Low income, more children, very low spending, little to no response to campaigns.  
@@ -35,13 +35,13 @@ The goal is to demonstrate how data science can be used to support targeted mark
 
 ---
 
-## ⚙️ Tools & Libraries
+## Tools & Libraries
 - Python (pandas, numpy, matplotlib, seaborn, scikit-learn)  
 - Jupyter Notebook for analysis and visualization  
 
 ---
 
-## 🚀 Next Steps / Future Work
+## Next Steps / Future Work
 - Experiment with alternative clustering methods (e.g., Hierarchical, DBSCAN).  
 - Explore dimensionality reduction techniques beyond PCA.  
 - Build predictive models to estimate cluster membership for new customers.
